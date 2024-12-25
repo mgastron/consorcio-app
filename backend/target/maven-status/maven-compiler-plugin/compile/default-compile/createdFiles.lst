@@ -1,0 +1,6 @@
+com/consorcio/api/controller/ChangePasswordRequest.class
+com/consorcio/api/repository/UserRepository.class
+com/consorcio/api/ConsorcioApiApplication.class
+com/consorcio/api/controller/UserController.class
+com/consorcio/api/model/User.class
+com/consorcio/api/service/UserService.class
